@@ -1,4 +1,5 @@
 # JavaScript-1---Kelvin-Weather
-Elementary project
+Elementary projects using JavaScript
 
-Converting Kelvin to Celsius, then to Fahrenheit. Using JavaScript.
+DogYears - Converting human's age into dog years.
+Kelvin - Converting Kelvin to Celsius, then to Fahrenheit.
