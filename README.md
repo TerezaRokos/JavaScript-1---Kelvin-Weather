@@ -1,8 +1,7 @@
 <h1>Elementary projects using JavaScript</h1>
 
-<h4>dogYears</h4>
-A program converts human's age into dog years.<br /><br />
-kelvin<br />
+<h4>dogYears</h4> - converts human's age into dog years.
+<h4>kelvin</h4>
 A program converts Kelvin to Celsius, then to Fahrenheit.<br /><br />
 magicBall<br />
 The user will be able to input a question, then my program will output a random fortune.<br /><br />
