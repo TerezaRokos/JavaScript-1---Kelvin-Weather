@@ -1,4 +1,3 @@
-# JavaScript-1---Kelvin-Weather
 Elementary projects using JavaScript
 
 dogYears<br />
@@ -16,5 +15,13 @@ The rules for our password validator are:<br />
 * Has at least one lowercase letter<br />
 * Is at least 8 characters long<br />
 * Has at least one special character<br /><br />
+rockPaperScissors<br />
+Rock paper scissors is a classic two player game. Each player chooses either rock, paper or scissors. The items are compared, and whichever player chooses the more powerful item wins.<br />
+The possible outcomes are:<br />
+* Rock destroys scissors.<br />
+* Scissors cut paper.<br />
+* Paper covers rock.< br />
+If there's a tie, then the game ends in a draw.<br />
+If the user input is 'bomb', then they win, no matter what.<br /><br />
 sleepDebtCalculator<br />
 A calculator that calculates sleep debt. The program will get how many hours of sleep is ideal each night, then compare that to the actual hours you slept each night of the last week.Then, it will calculate the amount of hours over or under they are to their sleep goal.<br /><br /><br />
