@@ -1,9 +1,10 @@
 <h1>Elementary projects using JavaScript</h1>
 
-<h4>dogYears</h4> - converts human's age into dog years.
+<h4>dogYears</h4>
+- converts human's age into dog years.
 <h4>kelvin</h4>
-A program converts Kelvin to Celsius, then to Fahrenheit.<br /><br />
-magicBall<br />
+- converts Kelvin to Celsius, then to Fahrenheit
+<h4>magicBall</h4>
 The user will be able to input a question, then my program will output a random fortune.<br /><br />
 passwordValidator<br />
 A program to make sure that a password is complex so that it cannot be easily guessed. Our password validator will check multiple aspects of a potential password and will report back to the user if their password meets a set of rules.<br />
