@@ -1,6 +1,6 @@
 <h1>Elementary projects using JavaScript</h1>
 
-<h2>dogYears</h2>
+<h3>dogYears</h3>
 A program converts human's age into dog years.<br /><br />
 kelvin<br />
 A program converts Kelvin to Celsius, then to Fahrenheit.<br /><br />
