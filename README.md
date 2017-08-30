@@ -1,4 +1,4 @@
-Elementary projects using JavaScript
+<h1>Elementary projects using JavaScript</h1>
 
 dogYears<br />
 A program converts human's age into dog years.<br /><br />
